@@ -34,14 +34,14 @@ The repositories were also cloned on the local machine using Git Bash
 The devcontainer configuration was reviewed to analyze required packages and dependencies
 FPGA synthesis and board-specific tools were intentionally not installed at this stage
 
-   SUPPORTING MATERIAL
+ SUPPORTING MATERIAL
    
 Screenshots and execution logs are provided in the repository to demonstrate:
 Successful environment setup
 Correct RISC-V compilation and execution
 Completion of FPGA simulation flow
 
-    KEY TAKEAWAYS
+ KEY TAKEAWAYS
     
 This task helped in:
 Understanding an industry-oriented FPGA development workflow
