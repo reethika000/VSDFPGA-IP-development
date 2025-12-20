@@ -48,6 +48,6 @@ Understanding an industry-oriented FPGA development workflow
 Verifying tools before moving to RTL modification or synthesis
 Gaining confidence in RISC-V compilation and simulation processes
 
-    CONCLUSION
+CONCLUSION
     
 By completing this task, a strong foundation has been established for upcoming FPGA and RTL-based assignments. The validated setup ensures that future development can proceed smoothly without tool-related issues.
